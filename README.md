@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./docs/assets/mercato-logo.png" width="10px" alt="" />
-<img src="./docs/assets/cento-logo-w.png#gh-dark-mode-only" width="10px" alt="" />
-<img src="./docs/assets/cento-logo-b.png#gh-light-mode-only" width="10px" alt="" />
+<img src="./docs/assets/mercato-logo.png" height="25px" alt="" />
++
+<img src="./docs/assets/cento-logo-w.png#gh-dark-mode-only" height="20px" alt="" />
+<img src="./docs/assets/cento-logo-b.png#gh-light-mode-only" height="20px" alt="" />
 
 # microfrontends
 
@@ -17,7 +18,7 @@ Projeto para demonstrar como a aplicação do conceito de Micro Frontends pode b
 ![navbar](./docs/assets/navbar.png)
 ![sidebar](./docs/assets/sidebar.png)
 
-## Referênciias
+## Referências
 
 - [Micro Frontends - extending the microservice idea to frontend development](https://micro-frontends.org/)
 - [How We Build Micro Frontends With Lattice - Netflix Technology Blog](https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea)
