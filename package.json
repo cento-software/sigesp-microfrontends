@@ -1,0 +1,13 @@
+{
+  "name": "sigesp",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "libs/*"
+  ],
+  "scripts": {
+    "web:dev": "yarn workspace @sigesp/web dev",
+    "auth-web:dev": "yarn workspace @sigesp/auth-web dev"
+  }
+}

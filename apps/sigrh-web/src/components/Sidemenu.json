@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "label": "Cadastro", "href": "#" },
+    { "label": "Profile", "href": "#" },
+    { "label": "Configurações", "href": "#" }
+  ]
+}

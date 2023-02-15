@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sigcont",
+    "description": "Sistema Integrado de Gestão Contábil",
+    "color": "rgb(55, 154, 123)"
+  },
+  {
+    "name": "sigcad",
+    "description": "Sistema Integrado de Gestão e Controle Administrativo",
+    "color": "rgb(55, 154, 123)"
+  },
+  {
+    "name": "sigmun",
+    "description": "Sistema Integrado de Gestão Municipal",
+    "color": "rgb(55, 154, 123)"
+  },
+  {
+    "name": "sigleg",
+    "description": "Sistema Integrado de Gestão Legislativa",
+    "color": "rgb(42, 128, 185)"
+  },
+  {
+    "name": "sigmus",
+    "description": "Sistema Integrado de Gestão de Saúde",
+    "color": "rgb(42, 128, 185)"
+  },
+  {
+    "name": "siges",
+    "description": "Sistema Integrado de Gestão Escolar",
+    "color": "rgb(42, 128, 185)"
+  },
+  {
+    "name": "sigrh",
+    "description": "Sistema Integrado de Gestão de Recursos Humanos",
+    "color": "rgb(235, 111, 99)"
+  },
+  {
+    "name": "aplic",
+    "description": "Aplic TCE-MT",
+    "color": "rgb(42, 128, 185)"
+  }
+]
